@@ -1,4 +1,10 @@
+<p align="center">
+    <img width="300" height="209" src="https://batteryindustry.tech/wp-content/uploads/2021/01/Eneon-ES.png">
+</p>
+
 ### Hi there 👋
+
+My name is Sam. I'm a Junior Systems Specialist at Eneon-ES. We lead the way in battery energy storage system (BESS) solutions.
 
 <!--
 **sam-eneon/sam-eneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
